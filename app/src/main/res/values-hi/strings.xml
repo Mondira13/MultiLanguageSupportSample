@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बहु भाषा समर्थन नमूना</string>
+
+    <string name="content">वह अच्छा लड़का है..!!!</string>
+    <string name="button1">हिंदी</string>
+    <string name="button2">अंग्रेज़ी</string>
+    <string name="button3">बंगाली</string>
+
+</resources>

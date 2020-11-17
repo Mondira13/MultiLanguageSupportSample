@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">বহু ভাষা সমর্থন নমুনা</string>
+
+
+    <string name="content">তিনি একটি ভাল ছেলে..!!!</string>
+    <string name="button1">হিন্দি</string>
+    <string name="button2">ইংরেজি</string>
+    <string name="button3">বাংলা</string>
+
+</resources>

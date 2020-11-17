@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Language Support Sample</string>
+
+    <string name="content">He is a good boy..!!!</string>
+    <string name="button1">Hindi</string>
+    <string name="button2">English</string>
+    <string name="button3">Bengali</string>
+
+</resources>
