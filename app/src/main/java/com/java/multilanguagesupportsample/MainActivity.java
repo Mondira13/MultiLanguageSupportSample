@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
                 context = LocaleHelper.setLocale(MainActivity.this, "hi");
                 resources = context.getResources();
                 mText.setText(resources.getString(R.string.content));
+                button1.setText(resources.getString(R.string.button1));
+                button2.setText(resources.getString(R.string.button2));
+                button3.setText(resources.getString(R.string.button3));
                 setTitle(resources.getString(R.string.app_name));
             }
         });
@@ -47,6 +50,9 @@ public class MainActivity extends AppCompatActivity {
                 context = LocaleHelper.setLocale(MainActivity.this, "en");
                 resources = context.getResources();
                 mText.setText(resources.getString(R.string.content));
+                button1.setText(resources.getString(R.string.button1));
+                button2.setText(resources.getString(R.string.button2));
+                button3.setText(resources.getString(R.string.button3));
                 setTitle(resources.getString(R.string.app_name));
             }
         });
@@ -57,6 +63,9 @@ public class MainActivity extends AppCompatActivity {
                 context = LocaleHelper.setLocale(MainActivity.this, "bn");
                 resources = context.getResources();
                 mText.setText(resources.getString(R.string.content));
+                button1.setText(resources.getString(R.string.button1));
+                button2.setText(resources.getString(R.string.button2));
+                button3.setText(resources.getString(R.string.button3));
                 setTitle(resources.getString(R.string.app_name));
             }
         });
